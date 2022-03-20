@@ -1,6 +1,6 @@
 **Do you like plants?** I know bees do, and I do, too! Help [save the bees](https://thebeeconservancy.org/10-ways-to-save-the-bees/)!
 
-Here is a picture of one of my bee bombs: <img src=https://raw.githubusercontent.com/lillekenal/lillekenal.github.io/main/beeBomb1.jpg alt="drawing" width="300"/>
+Here is a picture of one of my bee bombs: <img src="https://raw.githubusercontent.com/lillekenal/lillekenal.github.io/main/beeBomb1.jpg" alt="drawing" width="300"/>
 
 Here are a number of my packaged bee bombs: <img src="https://raw.githubusercontent.com/lillekenal/lillekenal.github.io/main/beeBombPkgs1.jpg" alt="drawing" width="300"/>
 
