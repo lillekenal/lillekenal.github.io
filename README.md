@@ -8,4 +8,4 @@ These "bee bombs" do not hurt bees, but help them pollinate flowers and make hon
 
 Please do not use pesticides on any of your plants; this kills the bees, and doesn't really help much.  My plants are growing great without pesticides.
 
-For more information or "bee bombs," please contact Lilleken <a href="mailto:lillekonmer@gmail.com">here</a>.  
+For more information or to get (more) "bee bombs," please contact Lilleken <a href="mailto:lillekonmer@gmail.com">here</a>.  
